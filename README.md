@@ -1,7 +1,10 @@
 # opv-dnn 
 Machine learning research for improving photovoltaic cell efficiency.
 
-## Methodology
+## Intro/Methodology
+
+The goal of this study is to improve the time and property predictions for high-throughput screening of organic photovoltaic materials. The testset from which model accruacy will be determined is the Harvard Organic Photovoltaic dataset (link: https://www.nature.com/articles/sdata201686)
+
 
 ## Results
 
